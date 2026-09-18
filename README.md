@@ -12,3 +12,5 @@
  <br> $${\color{#E95C7F} it  }$$  $${\color{#E5486E} / }$$ $${\color{#D93E66} machine }$$ 
   $${\color{#B62952} / }$$ $${\color{#A4204A} any }$$ 
 </td></table>
+
+<img width="300" src="https://file.garden/aZrZgVKh3wfTGmod/IMG_2971.png">
