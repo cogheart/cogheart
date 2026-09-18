@@ -13,4 +13,12 @@
   $${\color{#B62952} / }$$ $${\color{#A4204A} any }$$ 
 </td></table>
 
+<br>
+
+<br>
+
+<img width="98" src="https://file.garden/aZrZgVKh3wfTGmod/IMG_2978.png">
+<img width="85" src="https://file.garden/aZrZgVKh3wfTGmod/IMG_2979.png">
+<img width="80" src="https://file.garden/aZrZgVKh3wfTGmod/IMG_2981.png">
+
 <img width="300" src="https://file.garden/aZrZgVKh3wfTGmod/IMG_2971.png">
