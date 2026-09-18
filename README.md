@@ -1,16 +1,14 @@
-## Hi there 👋
+> <sup><I>for big screens</I> </sup>
+<img align="right" width="300" src="https://file.garden/aZrZgVKh3wfTGmod/IMG_2966.png">
 
-<!--
-**cogheart/cogheart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  
+<br><br>
+  
+<table> <TD> 
+  <div align="center">
+    
+ $${\color{#F9A9AD} sebastion}$$
+ <br> $${\color{#E95C7F} it  }$$  $${\color{#E5486E} / }$$ $${\color{#D93E66} machine }$$ 
+  $${\color{#B62952} / }$$ $${\color{#A4204A} any }$$ 
+</td></table>
