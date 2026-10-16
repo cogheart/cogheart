@@ -6,3 +6,5 @@
   <br>
   
 > <i>it / machine </i>
+
+[other](https://x.com/134958O2) [accounts](https://x.com/134958O2) 
