@@ -7,4 +7,4 @@
   
 > <i>it / machine </i>
 
-[other](https://x.com/134958O2) [accounts](https://x.com/134958O2) 
+[other]([https://x.com/134958O2](https://github.com/R0CKETLAUNCHER) [accounts](https://github.com/weavenest) 
