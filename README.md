@@ -10,7 +10,9 @@
 [other](https://github.com/R0CKETLAUNCHER) [accounts](https://github.com/weavenest) 
 
 <details>
-    <summary>TITLE</summary>
-    
+    <summary> ♡ </summary>
+  
+[vegas](https://github.com/taxduo4ever)  [zaph](https://github.com/cupiidshot)   [jay](https://github.com/putmetorestimnotyourstosave) [vanta](https://github.com/dr-vanta)
+  [zixuan](https://github.com/star-employee)
 
 </details>
